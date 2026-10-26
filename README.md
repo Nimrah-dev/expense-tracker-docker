@@ -53,6 +53,7 @@ echo "MYSQL_ROOT_PASSWORD=$(openssl rand -hex 12)" > .env
 docker compose up -d --build
 docker compose ps
 ```
+![docker compose ps](Screenshots/compose-ps.jpg)
 
 Open **http://localhost:8080**. The first start can take 20 to 40 seconds while the app connects to the database.
 
