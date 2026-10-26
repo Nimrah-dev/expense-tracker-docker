@@ -4,7 +4,7 @@ A Docker and Docker Compose setup for the open-source Expenses Tracker web app (
 
 > The application source code belongs to its original author: [mohamed0sawy/Expenses-Tracker-WebApp](https://github.com/mohamed0sawy/Expenses-Tracker-WebApp). This repository contains only the Docker setup I wrote for it.
 
-![Expenses Tracker running in Docker](Screenshots/app.png)
+![Expenses Tracker running in Docker](Screenshots/app.jpg)
 
 ## What is in this repo
 
